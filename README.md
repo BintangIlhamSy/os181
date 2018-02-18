@@ -1,2 +1,2 @@
 # os181
-[OS181] Fasilkom UI Operating Systems course repository
+ZCZC Sistem Operasi 2018 Awal (1)
